@@ -19,4 +19,4 @@ export const generateContacts = async (number) => {
     console.log(error);
   }
 };
-generateContacts(5);
+generateContacts(5); 
